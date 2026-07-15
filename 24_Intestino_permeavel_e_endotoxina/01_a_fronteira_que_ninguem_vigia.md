@@ -1,0 +1,8 @@
+<!-- MÓDULO: 01 | Função: abertura / gancho / enquadramento híbrido -->
+<!-- ANTES: Cap. 23 fechou prometendo a parede intestinal vazando LPS que desliga Leydig -->
+<!-- DEPOIS: entra o mecanismo da parede (Módulo 02) -->
+<!-- COBERTURA: gancho Marcos + parágrafo de enquadramento (regra de abertura híbrida); paga gancho do Cap. 23 -->
+
+Marcos tinha seguido o roteiro. Depois de consertar o sono, tirar o plástico, proteger a luz e reabrir a porta da insulina (o Cap. 23), ele melhorou — mas não fechou o círculo. Ainda tinha a barriga inchada à tarde, ainda sentia que a "fábrica" não voltava com a força prometida. Num exame, a testosterona tinha subido; na vida, a libido e o gás continuavam oscilando. Ele começou a suspeitar do que o Cap. 23 tinha deixado na porta: se a célula trava por dentro (resistência à insulina), há uma barreira que trava por fora.
+
+Este capítulo é sobre essa barreira externa: a parede do intestino. É o capítulo onde a investigação desce da célula para a fronteira — e onde um fio que parecia só digestivo vira, de novo, hormonal. O intestino não é só onde a comida vira energia. É uma fronteira militar: milhões de bactérias de um lado, a corrente sanguínea do outro. Quando a parede mantém o posto, nada passa além do permitido. Quando ela vaza, pedaços de bactéria morta — a endotoxina chamada LPS — entram na corrente e vão desligar as células que fabricam testosterona. Vamos ver o que é esse vazamento, por que a dieta moderna o favorece, o que a ciência primária mostra (e o que ela não mostra), e como selar a fronteira com o que a ciência sustenta, não com fórmulas mágicas de internet.

@@ -1,0 +1,5 @@
+# Contexto anterior — antes do Capítulo 24
+
+O Capítulo 23 tratou a insulina como o "carteiro" da célula e a resistência à insulina como a "porta emperrada" — ligando glicose, energia e testosterona, e tratando a metformina com honestidade (UKPDS 34). Ele fechou prometendo que "se a porta da célula trava por dentro, há uma outra barreira que trava por fora — a parede do intestino. Quando ela vaza, pedaços de bactéria morta (a endotoxina LPS) entram na corrente e desligam as células de Leydig."
+
+O Capítulo 24 foi produzido em método BOOK-FORGE: mapa de cobertura, contexto anterior, 7 módulos, capítulo consolidado e checklist de costura. Mantém a mesma voz e cautela das regras de gênero. Herda de capítulos anteriores: receptor como fechadura (Caps. 2, 11), aromatase/estrobolome (Cap. 13), sono/luz/eixo HPA (Caps. 4, 12, 21), zinco/minerais (Cap. 18), fibras/dieta anti-inflamatória (Cap. 23), e a metáfora de "fábrica" de testosterona (Cap. 13 / T17). Deve pagar o gancho do Cap. 23 (LPS desliga Leydig) e preparar a ponte para o Cap. 25 (fígado/glutationa/NAC como filtro da endotoxina).
