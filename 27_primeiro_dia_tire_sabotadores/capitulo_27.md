@@ -341,6 +341,8 @@ O checklist não é prova de pureza. É **instrumento de navegação**. Se você
 
 > **Aforismo mnemônico:** Não existe "dia perfeito". Existe "dia em que você tirou mais sabotadores do que colocou". Acumule esses dias.
 
+O primeiro dia não termina aqui. Ele continua amanhã, e no dia seguinte, e no seguinte — cada vez com menos sabotadores no caminho. O Capítulo 28 transforma essa lista em um protocolo diário de soberania hormonal: o que fazer ao acordar, o que fazer ao treinar, o que fazer ao comer, o que fazer antes de dormir. A ordem agora existe. O resto é execução.
+
 ---
 
 ## Referências
@@ -356,7 +358,3 @@ O checklist não é prova de pureza. É **instrumento de navegação**. Se você
 [5] IARC Working Group (2011). *Non-ionizing radiation, Part 2: Radiofrequency electromagnetic fields*. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Volume 102. Lyon: International Agency for Research on Cancer. https://publications.iarc.fr/126
 
 [6] Shafik A. (1993). Effect of different types of textiles on human spermatogenesis. *Journal of Urology*, 149(3), 516–520. https://pubmed.ncbi.nlm.nih.gov/8437324/
-
----
-
-O primeiro dia não termina aqui. Ele continua amanhã, e no dia seguinte, e no seguinte — cada vez com menos sabotadores no caminho. O Capítulo 28 transforma essa lista em um protocolo diário de soberania hormonal: o que fazer ao acordar, o que fazer ao treinar, o que fazer ao comer, o que fazer antes de dormir. A ordem agora existe. O resto é execução.

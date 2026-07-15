@@ -30,7 +30,9 @@
 | Capítulo 24 | `24_Intestino_permeavel_e_endotoxina/` | ✅ Produzido (plano 24.1–24.4 + corpus Rick T17/T74; mapa, contexto, 7 módulos, checklist) |
 | Capítulo 25 | `25_Figado_glutationa_e_NAC/` | ✅ Produzido (plano 25.1–25.4 + corpus Rick T21; mapa, contexto, 7 módulos, capitulo_25.md consolidado, checklist) |
 | Capítulo 26 | `26_DHT_vilao_da_calvicie_ou_motor_masculino/` | ✅ Produzido (mapa, contexto, capitulo_26.md consolidado, checklist); aguardando revisão/feedback |
+| Capítulo 27 | `27_primeiro_dia_tire_sabotadores/capitulo_27.md` | ✅ Produzido e consolidado |
+| Capítulo 28 | `28_protocolo_diario_soberania_hormonal/capitulo_28.md` | ✅ Produzido (mapa, contexto, 6 módulos, checklist, capitulo_28.md consolidado); aguardando Gate de Validação |
 
 ## Próximo capítulo ativo a produzir
 
-**Capítulo 27** — *O primeiro dia: tire os sabotadores antes de comprar suplementos* (PARTE X — O Protocolo Integrado). Itens do sumário: 27.1 Água, plástico, cosméticos e luz; 27.2 Celular, Wi-Fi, laptop e calor; 27.3 Sono, tela e rotina; 27.4 Checklist de 24 horas.
+**Capítulo 29** — *Stacks por objetivo* (PARTE X — O Protocolo Integrado). Promessa plantada no fecho do Cap. 28: combinações de suplementos, alimentos e intervenções por alvo (circulação/ereção, testosterona/libido, GH/músculo, dopamina/propósito, detox/intestino).

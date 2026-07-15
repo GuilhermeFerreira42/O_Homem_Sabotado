@@ -10,3 +10,5 @@ Este arquivo registra conceitos plantados e onde devem ser retomados ou pagos ao
 | Marcos como caso composto recorrente | Introdução | Retomado Caps. 6–21 | ✅ Em uso, consistente |
 | Fronteiras do corpo: pele, intestino, pulmão, receptores | Cap. 1 e Cap. 3 | Cap. 17 (pulmão/nariz); Cap. 24 (intestino, pago) | ✅ Pago |
 | Roteador longe do quarto / baixa exposição Wi‑Fi | Sumário original do Cap. 5 | Movido editorialmente para o Cap. 6 — Wi‑Fi, laptop e calor invisível | Pendente |
+| Protocolo diário por blocos temporais (manhã/tarde/noite/crise) | Cap. 27 (promessa no fecho) | Cap. 28 — Protocolo diário de soberania hormonal | ✅ Pago |
+| Stacks por objetivo (circulação/ereção, testosterona/libido, GH/músculo, dopamina/propósito, detox/intestino) | Cap. 28 (fecho, promessa Cap. 29) | Cap. 29 — Stacks por objetivo | 🌱 Plantada |
