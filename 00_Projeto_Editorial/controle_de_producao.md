@@ -42,7 +42,12 @@ Arquivos obrigatórios por capítulo: `capitulo_NN.md`, `_mapa_de_cobertura.md`,
 | 23 | `23_Insulina_o_receptor_emperrado/capitulo_23.md` | ✅ Produzido (plano 23.1–23.4 + corpus Rick T11; mapa, contexto, 6 módulos, checklist) |
 | 24 | `24_Intestino_permeavel_e_endotoxina/capitulo_24.md` | ✅ Produzido (plano 24.1–24.4 + corpus Rick T17/T74; mapa, contexto, 7 módulos, checklist) |
 | 25 | `25_Figado_glutationa_e_NAC/capitulo_25.md` | ✅ Produzido (plano 25.1–25.4 + corpus Rick T21; mapa, contexto, 7 módulos, capitulo_25.md consolidado, checklist) |
+| 26 | `26_DHT_vilao_da_calvicie_ou_motor_masculino/capitulo_26.md` | ✅ Produzido |
+| 27 | `27_primeiro_dia_tire_sabotadores/capitulo_27.md` | ✅ Produzido e consolidado |
+| 28 | `28_protocolo_diario_soberania_hormonal/capitulo_28.md` | ✅ Produzido (mapa, contexto, 6 módulos, checklist, capitulo_28.md consolidado e validado no Gate) |
+| 29 | `29_stacks_por_objetivo/capitulo_29.md` | ✅ Produzido (mapa, contexto, 6 módulos, checklist, capitulo_29.md consolidado e validado no Gate) |
+| 30 | `30_nao_virar_refem/capitulo_30.md` | ✅ Produzido (mapa, contexto, 5 módulos, checklist, capitulo_30.md consolidado e validado no Gate) |
 
 ## Próximo passo
 
-Produzir o **Capítulo 26** — *DHT: vilão da calvície ou motor masculino?* (PARTE IX — Cabelo, DHT e o medo de virar homem pela metade). Itens: 26.1 enzima 5α-redutase (testosterona→DHT, massa/força/libido/tecido genital); 26.2 Finasterida e escolha (avisos de disfunção sexual persistente); 26.3 Óleo de semente de abóbora (Univ. Pusan, 400mg/dia, 24 semanas, fios); 26.4 Protocolo cabelo sem sabotagem.
+Produzir o **Epílogo** — *O homem que voltou a sentir a própria força*. Fechamento do arco narrativo de Marcos e do livro.

@@ -7,9 +7,8 @@ Marcos abriu a porta do quarto. Não pegou o celular. O modo avião ficou na sal
 
 **Sol nos olhos. 10 minutos. Sem óculos. Sem janela entre.**
 
-A retina tem fotorreceptores específicos para azul (células ganglionares intrinsecamente fotossensíveis, contendo melanopsina). Eles não formam imagem. Eles medem "é dia". Quando recebem luz de 460–480 nm pela manhã, disparam para o núcleo supraquiasmático: *ancore aqui*. O cortisol sobe no pico fisiológico — não o cortisol do estresse, o cortisol da vigília. A melatonina, que vinha subindo desde a noite, recebe a ordem de parar. O relógio interno sincroniza. Catorze horas depois, a melatonina vai saber exatamente quando subir de novo. A testosterona matinal — que depende do pulso de LH noturno, que depende do eixo HPTA não estrangulado pelo cortisol — tem sua melhor chance de aparecer no exame e no corpo.
+Você já ancorou o relógio com o sol matinal no Capítulo 27. Aqui, o foco é a consistência diária.
 
-Marcos não mede lux. Sabe que nublado também conta. Sabe que luz de escritório (300–500 lux) não ancoriza — precisa de 10.000+ lux, que só o sol livre entrega. Dez minutos. É o custo mais barato de todo o protocolo.
 
 ---
 

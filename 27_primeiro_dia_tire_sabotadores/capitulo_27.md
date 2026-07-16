@@ -29,7 +29,7 @@ Marcos respirou fundo. Não era desespero. Era a sensação de que, pela primeir
 
 Marcos começou pela torneira.
 
-A água da rede traz cloro (que mata bactérias, mas também interfere na microbiota cutânea e intestinal), subprodutos de cloração como trihalometanos, e, dependendo da região, resíduos de herbicidas como atrazina — o disruptor endócrino que Tyrone Hayes, em Berkeley, documentou transformando sapos machos em fêmeas funcionais com níveis ambientais (Cap. 1). O flúor, defendido como proteção dentária, se acumula na glândula pineal, a fábrica de melatonina, com concentração mil vezes maior que no sangue [1]. Não é paranoia. É hidrologia básica: o que vai no rio volta na torneira.
+A água da rede traz cloro (que mata bactérias, mas também interfere na microbiota cutânea e intestinal), subprodutos de cloração como trihalometanos — subprodutos tóxicos que se formam quando o cloro reage com matéria orgânica na água — e, dependendo da região, resíduos de herbicidas como atrazina — o disruptor endócrino que Tyrone Hayes, em Berkeley, documentou transformando sapos machos em fêmeas funcionais com níveis ambientais (Cap. 1). O flúor, defendido como proteção dentária, se acumula na glândula pineal, a fábrica de melatonina, com concentração mil vezes maior que no sangue [161]. Não é paranoia. É hidrologia básica: o que vai no rio volta na torneira.
 
 A ação de hoje não é instalar um sistema de osmose reversa de cinco mil reais. A ação de hoje é três trocas que custam menos de cem reais no total:
 
@@ -47,7 +47,7 @@ Três trocas. Dez minutos. A água que entra no corpo deixa de ser uma incógnit
 
 Marcos abriu o armário da cozinha.
 
-BPA (garrafas, latas, recibos térmicos), ftalatos (embalagens flexíveis, filmes plásticos) e PFAS (antiaderentes) não são "químicos teóricos". BPA bloqueia receptores de androgênio — a testosterona circula, mas a fechadura não gira (Cap. 11). Ftalatos encurtam a distância anogenital em meninos expostos no útero [2]. PFAS persistem no corpo por anos ("químicos para sempre"). Microplásticos semanais equivalem a um cartão de crédito [3].
+BPA (garrafas, latas, recibos térmicos), ftalatos (embalagens flexíveis, filmes plásticos) e PFAS (antiaderentes) não são "químicos teóricos". BPA bloqueia receptores de androgênio — a testosterona circula, mas a fechadura não gira (Cap. 11). Ftalatos encurtam a distância anogenital em meninos expostos no útero [162]. PFAS persistem no corpo por anos ("químicos para sempre"). Microplásticos semanais equivalem a um cartão de crédito [163].
 
 A ação de hoje não é jogar tudo fora. É três trocas cirúrgicas:
 
@@ -95,9 +95,9 @@ Marcos tirou o celular do bolso e mediu a temperatura. O aparelho estava morno. 
 
 Os Capítulos 5 e 6 mostraram o que a ciência diz sobre essa proximidade.
 
-O calor é a parte mais consensual. Testículos operam a 34–35°C porque espermatogênese falha acima de 36°C. Um laptop no colo eleva a temperatura escrotal em 2,8°C em 60 minutos [4]. Um banco aquecido de carro, uma cueca de poliéster, uma sessão de laptop no sofá: são camadas que se somam no mesmo dia (Cap. 7). O dano térmico é cumulativo e reversível — mas só se o calor parar.
+O calor é a parte mais consensual. Testículos operam a 34–35°C porque espermatogênese falha acima de 36°C. Um laptop no colo eleva a temperatura escrotal em 2,8°C em 60 minutos [164]. Um banco aquecido de carro, uma cueca de poliéster, uma sessão de laptop no sofá: são camadas que se somam no mesmo dia (Cap. 7). O dano térmico é cumulativo e reversível — mas só se o calor parar.
 
-Os campos eletromagnéticos (EMF) são a parte mais debatida. A OMS classificou radiofrequência como grupo 2B — possível carcinógeno — em 2011 [5]. Um estudo de Genebra (2016) observou ≈20% de redução na concentração espermática em homens jovens com alta exposição a celular no bolso (Cap. 5). Críticos apontam que correlação não prova causalidade e que outros fatores (sedentarismo, calor, estresse) podem confundir. A posição deste livro, já estabelecida no Capítulo 5, é clara: não sabemos o suficiente para decretar perigo, mas sabemos o bastante para aplicar precaução a custo zero.
+Os campos eletromagnéticos (EMF) são a parte mais debatida. A OMS classificou radiofrequência como grupo 2B — possível carcinógeno — em 2011 [165]. Um estudo de Genebra (2016) observou ≈20% de redução na concentração espermática em homens jovens com alta exposição a celular no bolso (Cap. 5). Críticos apontam que correlação não prova causalidade e que outros fatores (sedentarismo, calor, estresse) podem confundir. A posição deste livro, já estabelecida no Capítulo 5, é clara: não sabemos o suficiente para decretar perigo, mas sabemos o bastante para aplicar precaução a custo zero.
 
 A ação de hoje:
 
@@ -115,7 +115,7 @@ Marcos não virou tecnófobo. Apenas colocou 30 centímetros entre o corpo e as 
 
 ## O calor que empilha
 
-O Capítulo 7 mostrou o experimento incômodo dos anos 1990: homens usando poliéster por 24 horas produziram menos espermatozoides que os usando algodão [6]. O mecanismo era térmico: poliéster retém calor, algodão respira. A isso se soma banho quente prolongado, assento aquecido, roupa justa, sedentarismo, laptop. A soma térmica diária é silenciosa — o homem não sente os testículos "quentes", apenas percebe, meses depois, que a fertilidade caiu.
+O Capítulo 7 mostrou o experimento incômodo dos anos 1990: homens usando poliéster por 24 horas produziram menos espermatozoides que os usando algodão [166]. O mecanismo era térmico: poliéster retém calor, algodão respira. A isso se soma banho quente prolongado, assento aquecido, roupa justa, sedentarismo, laptop. A soma térmica diária é silenciosa — o homem não sente os testículos "quentes", apenas percebe, meses depois, que a fertilidade caiu.
 
 A ação de hoje são trocas simples:
 
@@ -347,14 +347,14 @@ O primeiro dia não termina aqui. Ele continua amanhã, e no dia seguinte, e no 
 
 ## Referências
 
-[1] Luke J. (2001). Fluoride deposition in the aged human pineal gland. *Caries Research*, 35(2), 125–128. https://pubmed.ncbi.nlm.nih.gov/11275649/
+[161] Luke J. (2001). Fluoride deposition in the aged human pineal gland. *Caries Research*, 35(2), 125–128. https://pubmed.ncbi.nlm.nih.gov/11275649/
 
-[2] Swan SH, Sathyanarayana S, Barrett ES, et al. (2015). First trimester phthalate exposure and anogenital distance in newborns. *Human Reproduction*, 30(4), 963–972. https://pubmed.ncbi.nlm.nih.gov/25631026/
+[162] Swan SH, Sathyanarayana S, Barrett ES, et al. (2015). First trimester phthalate exposure and anogenital distance in newborns. *Human Reproduction*, 30(4), 963–972. https://pubmed.ncbi.nlm.nih.gov/25631026/
 
-[3] WWF / Universidade de Newcastle (2019). *Assessing plastic ingestion from nature to people*. https://wwfint.awsassets.panda.org/downloads/plastic_ingestion_press_singles_061119.pdf
+[163] WWF / Universidade de Newcastle (2019). *Assessing plastic ingestion from nature to people*. https://wwfint.awsassets.panda.org/downloads/plastic_ingestion_press_singles_061119.pdf
 
-[4] Sheynkin YR, Jung M, Yoo P, et al. (2011). Laptop computers: scrotal hyperthermia and potential fertility consequences. *Fertility and Sterility*, 95(2), 571–575. https://pubmed.ncbi.nlm.nih.gov/21146171/
+[164] Sheynkin YR, Jung M, Yoo P, et al. (2011). Laptop computers: scrotal hyperthermia and potential fertility consequences. *Fertility and Sterility*, 95(2), 571–575. https://pubmed.ncbi.nlm.nih.gov/21146171/
 
-[5] IARC Working Group (2011). *Non-ionizing radiation, Part 2: Radiofrequency electromagnetic fields*. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Volume 102. Lyon: International Agency for Research on Cancer. https://publications.iarc.fr/126
+[165] IARC Working Group (2011). *Non-ionizing radiation, Part 2: Radiofrequency electromagnetic fields*. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Volume 102. Lyon: International Agency for Research on Cancer. https://publications.iarc.fr/126
 
-[6] Shafik A. (1993). Effect of different types of textiles on human spermatogenesis. *Journal of Urology*, 149(3), 516–520. https://pubmed.ncbi.nlm.nih.gov/8437324/
+[166] Shafik A. (1993). Effect of different types of textiles on human spermatogenesis. *Journal of Urology*, 149(3), 516–520. https://pubmed.ncbi.nlm.nih.gov/8437324/

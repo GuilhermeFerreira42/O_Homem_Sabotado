@@ -31,8 +31,10 @@
 | Capítulo 25 | `25_Figado_glutationa_e_NAC/` | ✅ Produzido (plano 25.1–25.4 + corpus Rick T21; mapa, contexto, 7 módulos, capitulo_25.md consolidado, checklist) |
 | Capítulo 26 | `26_DHT_vilao_da_calvicie_ou_motor_masculino/` | ✅ Produzido (mapa, contexto, capitulo_26.md consolidado, checklist); aguardando revisão/feedback |
 | Capítulo 27 | `27_primeiro_dia_tire_sabotadores/capitulo_27.md` | ✅ Produzido e consolidado |
-| Capítulo 28 | `28_protocolo_diario_soberania_hormonal/capitulo_28.md` | ✅ Produzido (mapa, contexto, 6 módulos, checklist, capitulo_28.md consolidado); aguardando Gate de Validação |
+| Capítulo 28 | `28_protocolo_diario_soberania_hormonal/capitulo_28.md` | ✅ Produzido (mapa, contexto, 6 módulos, checklist, capitulo_28.md consolidado e validado no Gate) |
+| Capítulo 29 | `29_stacks_por_objetivo/capitulo_29.md` | ✅ Produzido (mapa, contexto, 6 módulos, checklist, capitulo_29.md consolidado e validado no Gate) |
+| Capítulo 30 | `30_nao_virar_refem/capitulo_30.md` | ✅ Produzido (mapa, contexto, 5 módulos, checklist, capitulo_30.md consolidado e validado no Gate) |
 
 ## Próximo capítulo ativo a produzir
 
-**Capítulo 29** — *Stacks por objetivo* (PARTE X — O Protocolo Integrado). Promessa plantada no fecho do Cap. 28: combinações de suplementos, alimentos e intervenções por alvo (circulação/ereção, testosterona/libido, GH/músculo, dopamina/propósito, detox/intestino).
+**Epílogo** — *O homem que voltou a sentir a própria força*. Fechamento do arco narrativo de Marcos e do livro.
