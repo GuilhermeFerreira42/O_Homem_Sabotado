@@ -1,29 +1,31 @@
 # BOOT — Mensagem de inicialização para o Escritor
 
 > **Este arquivo é a primeira coisa que o escritor deve ler.**
-> Ele indica a ordem correta de leitura dos arquivos do workspace e define a tarefa atual.
+> Ele indica a ordem correta de leitura dos arquivos do workspace e define a tarefa de revisão atual.
 
 ---
 
 ## Quem é você
 
-Você é o **Escritor** de um livro chamado **"O Homem Sabotado"** — não-ficção narrativa investigativa sobre saúde masculina. O livro já tem **28 capítulos** escritos (Introdução + Caps. 1 a 28). Faltam os capítulos 29 a 30 para completar a obra, mais os paratextos (nota do autor, prólogo, apêndice de protocolos).
+Você é o **Escritor** de um livro chamado **"O Homem Sabotado"** — não-ficção narrativa investigativa sobre saúde masculina.
 
-Existe um **Orquestrador de Revisão** (agente separado) que revisa os capítulos depois de prontos. Sua tarefa é **produzir os capítulos novos** e **aplicar correções** quando o revisor apontar problemas.
+**O livro está completo.** Todos os 30 capítulos já foram escritos, do Capítulo 1 ao Capítulo 30. 
+
+Agora estamos na **fase de revisão final**. Um Orquestrador de Revisão analisou a obra completa e identificou 3 frentes de correção cirúrgica. Sua tarefa é **executar essas 3 frentes** descritas neste documento.
 
 ---
 
-## LEIA OS ARQUIVOS NESTA ORDEM EXATA
+## LEIA OS ARQUIVOS NESTA ORDEM EXATA (antes de executar)
 
-### Bloco 1 — ENTENDA O PROJETO E ONDE ELE ESTÁ
+### Bloco 1 — ENTENDA O PROJETO
 
-1. **`O_Homem_Sabotado/00_Projeto_Editorial/DIRETRIZ_VIGENTE.md`**
+1. **`00_Projeto_Editorial/DIRETRIZ_VIGENTE.md`**
    A diretriz ativa do projeto. Define tese, promessa, público, narrador, o que é proibido e obrigatório. **Esta é a autoridade editorial máxima do livro.**
 
-2. **`O_Homem_Sabotado/00_Projeto_Editorial/estado_da_obra.md`**
+2. **`00_Projeto_Editorial/estado_da_obra.md`**
    O status de cada capítulo.
 
-3. **`O_Homem_Sabotado/00_Projeto_Editorial/mapa_promessas.md`**
+3. **`00_Projeto_Editorial/mapa_promessas.md`**
    Conceitos plantados e onde devem ser pagos.
 
 ### Bloco 2 — ENTENDA SEU MÉTODO DE TRABALHO
@@ -36,27 +38,13 @@ Existe um **Orquestrador de Revisão** (agente separado) que revisa os capítulo
 
 ### Bloco 3 — ENTENDA O LIVRO QUE JÁ EXISTE
 
-6. **`O_Homem_Sabotado/sumario_livro_rick_ensina.md`**
+6. **`sumario_livro_rick_ensina (1).md`**
    O sumário completo (30 capítulos em 10 Partes). É o mapa de cobertura.
 
-7. **`O_Homem_Sabotado/00_Introducao/introducao.md`**
+7. **`00_Introducao/introducao.md`**
    A introdução. Leia para absorver a voz, o tom e o caso composto (Marcos).
 
 8. **Leia pelo menos 2 capítulos já aprovados** (ex.: Cap. 18 e Cap. 26) para calibrar a densidade, o ritmo e a voz esperados.
-
-### Bloco 4 — ENTENDA O CONTEXTO EDITORIAL
-
-9. **`O_Homem_Sabotado/00_Projeto_Editorial/PLANO_ACAO_SIMPLIFICADO.md`**
-   O plano de ação consolidado.
-
-10. **`O_Homem_Sabotado/00_Projeto_Editorial/ANALISE_CRUZADA_MERCADO_X_PROJETO.md`**
-    Cruzamento entre a arquitetura de mercado e o projeto atual.
-
----
-
-## A TAREFA
-
-Após ler os arquivos acima, sua tarefa é **produzir o próximo capítulo** conforme o sumário, seguindo as 7 Regras de Ouro do gênero e passando pelo Gate de Validação da skill antes de entregar.
 
 ---
 
@@ -84,68 +72,169 @@ Todo termo técnico deve seguir: função em linguagem cotidiana → analogia vi
 Todo capítulo deve terminar com: (1) síntese do mecanismo, (2) extensão ao leitor, (3) abertura para o próximo capítulo.
 
 ---
+---
 
-## POR ONDE COMEÇAR
+# A TAREFA: INSTRUÇÕES DE EXECUÇÃO DA REVISÃO FINAL
 
-Comece lendo os arquivos na ordem indicada acima (Blocos 1 a 4). Depois inicie as correçoes:
+O livro está completo (30 capítulos). Execute as **3 frentes de revisão** abaixo, **nesta ordem exata**:
 
-# PROMPT PARA O ESCRITOR — Capítulo 28 (ENXUGAMENTO)
+1. **Frente 1** — Cortar o tom defensivo e criar o pacto da prudência
+2. **Frente 3** — Escrever as páginas de abertura das 10 Partes
+3. **Frente 2** — Reescrever o Cap. 27 em sprints + ajustes nos Caps. 11 e 28
+
+Em todas: **bisturi, não marreta.** Não reescreva capítulos inteiros. Aja como cirurgião.
 
 ---
 
-Escrevo sobre o Capítulo 28 (O protocolo diário de soberania hormonal). 
+# FRENTE 1 — O TOM DEFENSIVO
 
-A estrutura do capítulo (manhã, tarde, noite, dia de crise) é excelente e está correta. Os conceitos novos (banho frio, café hormonal, trabalho profundo, caminhada pós-almoço, regras do almoço, dia de crise) são fantásticos e **devem ser mantidos**.
+## Tarefa 1.1 — Adicionar "O pacto da prudência" na introdução
 
-**O problema:** O capítulo está redundante. Ele reexplica mecanismos e instruções que o leitor já leu detalhadamente no Capítulo 27 (e em outros capítulos anteriores). No audiolivro, o ouvinte tem a sensação de "ele já não falou isso?". 
+Na introdução (`00_Introducao/introducao.md`), depois da seção "O tipo de verdade que interessa", adicionar uma nova seção curta chamada **"O pacto da prudência"**.
 
-## REGRA: BISTURI, NÃO MARRETA
+Esta seção deve:
 
-Não reescreva o capítulo. Você vai apenas **enxugar** as repetições, transformando parágrafos explicativos em breves menções, e preservando todo o conteúdo novo.
+1. Estabelecer que o livro opera na zona cinzenta da toxicologia moderna — onde nem tudo tem ensaio clínico de 30 anos, mas onde a biologia plausível e a exposição diária são reais
+2. Definir o princípio central do livro: **"quando o custo de tirar é zero e o risco de deixar é real, tira"**
+3. Firmar o contrato com o leitor — dizer explicitamente: a partir daqui, não vou mais pedir desculpa pela ciência a cada página. Vocês já sabem as regras. Quando eu disser "aplicamos a prudência", vocês sabem o que significa.
+
+**Tamanho:** 2-3 parágrafos curtos. Voz narrativa, não acadêmica.
+
+## Tarefa 1.2 — Definir o bordão recorrente
+
+Sempre que precisar sinalizar cautela (onde antes havia parágrafos defensivos), usar uma destas variações:
+
+> *"Aplicamos aqui o mesmo princípio: se o custo de tirar é zero e o risco de deixar é real, tira."*
+
+> *"A regra é a mesma: precaução sem histeria."*
+
+Uma frase. Segue. Sem parágrafo de justificativa.
+
+## Tarefa 1.3 — Cortar a gordura defensiva nos capítulos
+
+**Capítulos prioritários** (onde a gordura pesa mais):
+
+| Capítulos | Tema | O que cortar |
+|---|---|---|
+| 1, 2, 3 | Água, plástico, cosméticos | Resalvas repetidas sobre correlação vs. causalidade |
+| 4, 5, 6, 7 | Luz, celular, Wi-Fi, calor | Resalvas repetidas sobre estudos in vitro e Grupo 2B |
+| 15 | Viagra natural | Resalvas longas antes de cada planta |
+| 18 | Minerais | Resalvas sobre megadose (já explicadas na introdução) |
+| 20 | Adaptógenos | Resalvas sobre extrato vs. raiz moída (já explicadas antes) |
+
+**O que cortar em cada um:**
+- Parágrafos que reexplicam "correlação não é causalidade" → substituir pelo bordão
+- Parágrafos que reexplicam "estudo in vitro não é humano" → substituir pelo bordão
+- Parágrafos que pedem desculpa por não ter ensaio clínico → cortar
+- Parágrafos que justificam não ser conspiracionista → cortar
+
+**O que manter:**
+- A cautela onde aparece pela PRIMEIRA vez (Cap. 1)
+- A cautela onde há genuinely nova nuance metodológica
+- A distinção entre estudo animal e humano (marcar, sem reexplicar)
+
+**Regra:** se o leitor já leu a mesma ressalva 2 capítulos antes, corte ou substitua pelo bordão.
 
 ---
 
-## O QUE CORTAR / ENCURTAR (Redundâncias)
+# FRENTE 3 — PÁGINAS DE ABERTURA DAS 10 PARTES
 
-Para os itens abaixo, **corte a reexplicação do mecanismo**. Deixe apenas a instrução prática da rotina, referenciando o capítulo anterior em meia frase. 
+## Tarefa 3.1 — Escrever 10 páginas de abertura
 
-### 1. Sol da manhã (Seção "A âncora")
-- **Corte:** A reexplicação sobre as células da retina, melanopsina, lux, eixo HPTA, cortisol e melatonina.
-- **Como deve ficar:** Mantenha a instrução prática ("Sol nos olhos. 10 minutos. Sem óculos. Sem janela entre."), mas adicione apenas: *"Você já ancorou o relógio com o sol matinal no Capítulo 27. Aqui, o foco é a consistência diária."*
+Cada uma das 10 Partes do livro ganha uma **página de abertura curta** (1 parágrafo, 3-5 linhas) que:
+- Fecha a Parte anterior ("vimos que...")
+- Prepara a próxima ("agora vamos olhar para...")
+- Sinaliza a mudança de escala explicitamente
 
-### 2. Ambiente Noturno: Quarto, Banho e Telas (Seção "A fábrica")
-- **Corte:** A reexplicação da termodinâmica do banho, o porquê do blackout, o porquê do celular fora do quarto. 
-- **Como deve ficar:** Junte essas três instruções num único bloco curto de rotina. Exemplo: *"O ambiente noturno você já montou no Capítulo 27. A regra aqui é a execução: banho morno (60–90 min antes), telas apagadas, celular fora do quarto, escuro total e 18–20°C. O corpo faz o resto."*
+Estas páginas são **separadas dos capítulos** — são texto de transição entre Partes.
 
-### 3. Suplementos Noturnos: Magnésio e Ashwagandha (Seção "A fábrica")
-- **Corte:** O parágrafo denso explicando receptores NMDA, GABA, bomba Na+/K+, eixo HPA e barreira hematoencefálica. 
-- **Como deve ficar:** *"Você já conhece o magnésio glicinato e a Ashwagandha (KSM-66) dos capítulos anteriores. Eles continuam sendo suas ferramentas para desligar o sistema nervoso à noite: 300–400 mg de magnésio e 300 mg de Ashwagandha, 60 minutos antes de dormir."*
+**As 10 Partes e o que cada ponte deve dizer:**
 
-### 4. Respiração 4-7-8 e Acordar no mesmo horário
-- **Corte:** A reexplicação do nervo vago e do "jetlag social" do fim de semana.
-- **Como deve ficar:** Mantenha apenas a instrução prática como item da rotina.
+| Parte | Tema | A ponte deve dizer |
+|---|---|---|
+| I | A casa que envenena | Preparar o conceito de que o ambiente entra no corpo |
+| II | Tecnologia e radiação | "a casa não é só o que você bebe — é o que você carrega no bolso" |
+| III | O sequestro do cérebro | **PONTE CRÍTICA:** "o ambiente físico é só a primeira camada. Existe um sequestro que não vem pelo plástico — vem pela tela" |
+| IV | O exame normal que esconde o homem travado | **PONTE CRÍTICA:** "agora que vimos o comportamento, vamos olhar o que ele faz com a química do sangue" |
+| V | O pênis como barômetro vascular | "o hormônio precisa circular para agir" |
+| VI | Os compostos da fábrica hormonal | "sabendo o que falta, podemos repor" |
+| VII | O sinal que constrói tecido | "com a fábrica funcionando, vem a pergunta: como transformar isso em músculo?" |
+| VIII | O filtro que decide quem fica e quem sai | "mas o corpo não constrói se estiver inflamado por dentro" |
+| IX | Cabelo, DHT e o medo de virar homem pela metade | "antes de fechar, uma última decisão: o hormônio mais potente e mais temido" |
+| X | Do conhecimento à soberania | **PONTE CRÍTICA:** "tudo que você aprendeu agora vira rotina. Mas não tudo de uma vez — em fases" |
+
+**As 3 pontes críticas** (III, IV e X) são as mais importantes e precisam de mais cuidado.
+
+**Tamanho de cada ponte:** 1 parágrafo, 3-5 linhas. Voz narrativa. Sem subtítulo (apenas o número da Parte e o nome revisado).
+
+## Tarefa 3.2 — Revisar os subtítulos das Partes
+
+Revisar os subtítulos para passarem mais sensação de jornada e progressão:
+
+| Parte | Subtítulo atual | Subtítulo revisado |
+|---|---|---|
+| I | A água, o plástico e a casa que envenenam o homem | (manter) |
+| II | Tecnologia, radiação e o corpo conectado demais | (manter) |
+| III | O sequestro do cérebro masculino | (manter) |
+| IV | O exame normal que esconde um homem travado | (manter) |
+| V | O pênis como barômetro vascular | (manter) |
+| VI | Os compostos que reativam a fábrica hormonal | (manter) |
+| VII | GH, músculo e recuperação | → **"O sinal que constrói tecido"** |
+| VIII | Metabolismo, intestino e detox | → **"O filtro que decide quem fica e quem sai"** |
+| IX | Cabelo, DHT e o medo de virar homem pela metade | (manter) |
+| X | O protocolo integrado | → **"Do conhecimento à soberania"** |
 
 ---
 
-## O QUE NÃO MUDAR (Conteúdo novo e excelente)
+# FRENTE 2 — OS SPRINTS DE IMPLEMENTAÇÃO
 
-**NÃO corte nem altere as seguintes seções.** Elas contêm informação nova, inédita e de altíssimo valor para o leitor:
+## Tarefa 2.1 — Reescrever o Cap. 27 no formato de 3 sprints
 
-1. **A introdução:** O contraste entre "ordem (Cap 27)" e "rotina (Cap 28)". Está perfeito.
-2. **Banho frio:** Todo o mecanismo (dopamina, norepinefrina, UCP1). Conteúdo novo.
-3. **Café hormonal:** A receita do café com colágeno, creatina, MCT e canela. Conteúdo novo.
-4. **Trabalho profundo:** A janela neuroquímica de 90 minutos. Conteúdo novo.
-5. **Caminhada pós-almoço:** O mecanismo do GLUT4 independente de insulina. Conteúdo novo.
-6. **Almoço anti-inflamatório:** As 4 regras do prato. Conteúdo novo.
-7. **Dia de crise (O mínimo inegociável):** Todo o bloco, incluindo pornografia, água, refeição real, respiração e deitar na cama mesmo sem dormir. Conteúdo novo e brilhante.
-8. **Conclusão em 3 camadas e o encerramento com o Marcos.** Estão excelentes.
+O Cap. 27 atual ("O primeiro dia") tem a estrutura certa. Reescrever em 3 fases:
+
+**SPRINT 1 — Semana 1: Remoção do ruído óbvio**
+- Foco: sabotadores físicos, zero força de vontade prolongada
+- Ações: garrafa de vidro, plástico fora do micro-ondas, filtro de chuveiro, rótulos de cosméticos, lâmpada do quarto, celular fora do bolso, cueca de algodão, telas apagadas
+- Argumento: "são vitórias rápidas. A casa parou de gritar contra o corpo."
+- Sem exames, sem suplementos, sem mudança comportamental profunda
+
+**SPRINT 2 — Mês 1: Restauração da máquina**
+- Foco: o corpo começa a responder porque o ambiente está limpo
+- Ações: sol da manhã, caminhada pós-almoço, treino de força, sono protegido, cortar pornografia, regular dopamina
+- Argumento: "com o ambiente limpo, o corpo tem chance de mostrar do que é capaz"
+
+**SPRINT 3 — Mês 3: Refinamento químico**
+- Foco: medir e suplementar
+- Ações: painel hormonal ampliado, HOMA-IR, PCR, espermograma, introdução de stacks conforme objetivo
+- Argumento do "prédio em chamas": "se você tira sangue no dia 1, está medindo um corpo sabotado. O número vai ser ruim e pode levar a um tratamento que você não precisaria. Espere o corpo respirar. Meça a base real, não o dano agudo."
+
+## Tarefa 2.2 — Adaptar o checklist de uma página
+
+O checklist atual (24 itens para imprimir) é excelente. Manter, mas **reorganizar em 3 seções** correspondentes aos 3 sprints.
+
+## Tarefa 2.3 — Adicionar alerta no Cap. 11
+
+No Cap. 11 (`11_Testosterona_total_nao_e_testosterona_funcionando/capitulo_11.md`), onde o livro diz "peça o painel ampliado", adicionar:
+
+> *"Mas antes de correr para o laboratório no dia 1, lembre-se: medir um corpo sabotado é como tirar foto de um prédio em chamas. O número vai refletir o dano, não a base. A ordem certa está no Capítulo 27. Leia antes de tirar sangue."*
+
+## Tarefa 2.4 — Ajustar o Cap. 28
+
+O Cap. 28 (`28_protocolo_diario_soberania_hormonal/capitulo_28.md`) se mantém como **a rotina de manutenção depois que os sprints acabaram**. Estrutura manhã/tarde/noite continua. Seção "dia de crise" continua. Não reescrever — apenas remover redundâncias com o Cap. 27 (enxugar as repetições, mantendo só o conteúdo novo).
 
 ---
 
-## RESUMO DA TAREFA
+# O QUE NÃO MUDAR (em todas as frentes)
 
-1. Vá lendo o capítulo.
-2. Quando bater de frente com algo que já foi ensinado no Cap. 27 (sol da manhã com detalhe de retina, banho morno com detalhe de temperatura, quarto escuro, magnésio com detalhe de NMDA/GABA), **apague a explicação técnica e deixe só a instrução prática**.
-3. Quando bater de frente com algo novo (banho frio, café hormonal, treino, refeição, dia de crise), **mantenha exatamente como está**.
+- A ordem dos 30 capítulos (mantém)
+- O gênero narrativo (mantém)
+- As analogias já consolidadas (mantém)
+- Os aforismos mnemônicos (mantém)
+- La conclusão em 3 camadas (mantém)
+- As regras do Gate de Validação (mantém)
+- O formato de protocolo em 2 grupos (mantém)
 
-O objetivo é que o Capítulo 28 ande mais rápido, sem ficar preso em repetições, focando no que ele tem de melhor: **as novas ações diárias.**
+
+----------
+
+
