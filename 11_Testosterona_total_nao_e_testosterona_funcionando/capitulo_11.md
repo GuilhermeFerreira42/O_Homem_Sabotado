@@ -85,6 +85,8 @@ Essa é uma das formas mais comuns de confusão clínica.
 
 Um homem pode ter testosterona total razoável e testosterona livre baixa. O exame total mostra patrimônio. A fração livre mostra dinheiro disponível. Se quase tudo está preso, o corpo pode funcionar como se tivesse menos hormônio do que o número sugere.
 
+**Marcos segurava o laudo no consultório, confuso. "Mas doutor, minha testosterona total está 380, dentro da referência. Por que continuo exausto? Por que a libido não volta?"**
+
 A metáfora financeira é imperfeita, mas ajuda. Imagine que sua conta mostra 100 mil reais, mas 98 mil estão bloqueados por decisão judicial. O aplicativo do banco pode exibir patrimônio. O almoço precisa de dinheiro disponível.
 
 A testosterona livre é o dinheiro do almoço.

@@ -48,7 +48,7 @@ A biologia moderna nos obriga a levar a sério uma categoria estranha: compostos
 
 Um único produto talvez não diga muita coisa. O uso diário de vários produtos por anos começa a dizer mais. E aqui a evidência de exposição é difícil de ignorar. Estudos de biomonitoramento — medir no próprio corpo humano (urina, sangue, leite) a presença de substâncias que vieram do ambiente — nos Estados Unidos encontraram methylparaben e propylparaben na urina de mais de 92% de uma amostra representativa da população, com butylparaben detectado em uma parcela menor, mas ainda significativa. Isso não prova dano. Prova presença ampla.
 
-Aplicamos aqui o mesmo princípio: se o custo de tirar é zero e o risco de deixar é real, tira.
+Aplicamos aqui o mesmo princípio da prudência: biologia plausível, exposição diária e custo zero de prevenção justificam a ação. Você não precisa esperar um ensaio clínico para trocar cosméticos com parabenos por alternativas mais simples.
 
 Presença ampla muda o tipo de pergunta.
 

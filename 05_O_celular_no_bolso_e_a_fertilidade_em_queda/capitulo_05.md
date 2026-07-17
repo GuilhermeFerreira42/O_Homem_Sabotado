@@ -51,7 +51,7 @@ Quando um hábito universal aparece associado a um marcador sensível da saúde 
 
 É atenção.
 
-Aplicamos aqui o mesmo princípio: se o custo de tirar é zero e o risco de deixar é real, tira.
+Aplicamos aqui o mesmo princípio da prudência: biologia plausível, exposição diária e custo zero de prevenção justificam a ação. Você não precisa esperar um ensaio clínico para tirar o celular do bolso quando está tentando preservar fertilidade.
 
 ## O Grupo 2B e a zona cinzenta
 

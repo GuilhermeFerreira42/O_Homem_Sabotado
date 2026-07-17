@@ -111,6 +111,8 @@ A regra é a mesma dos capítulos anteriores: ferramenta não substitui fundaç�
 
 Se a cintura cresce, o sono piora, o álcool continua, a comida inflama e o treino é irregular, nenhum composto natural “antiaromatase” vai carregar o sistema nas costas.
 
+**Aqui o custo de tirar exige suor, mas o risco de deixar é a castração química.** Perder gordura visceral não é uma troca de recipiente — é mudança de vida. E é por isso que essa decisão exige mais do que precaução. Exige soberania.
+
 ## O perigo de baixar demais
 
 Há um erro comum em homens que descobrem a aromatase: passam a tratar estradiol como inimigo.

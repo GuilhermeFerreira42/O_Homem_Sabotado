@@ -93,7 +93,7 @@ Em 2019, uma análise encomendada pelo WWF e conduzida com pesquisadores da Univ
 
 Cinco gramas por semana não deve ser lido como uma medição individual precisa. A ciência dos microplásticos ainda está amadurecendo. Há variações enormes por região, método, dieta, água, ar, ocupação e definição do que está sendo contado. O próprio campo ainda discute como transformar partículas em massa, como medir exposição real e como estimar efeito biológico em humanos.
 
-Aplicamos aqui o mesmo princípio: se o custo de tirar é zero e o risco de deixar é real, tira.
+Aqui, o princípio da prudência se aplica: biologia plausível + exposição diária + custo zero de prevenção = ação imediata. Você não precisa esperar um ensaio clínico para parar de aquecer comida em plástico. **Se o custo de tirar é zero e o risco de deixar é real, tira.** Mas lembre-se: essa regra vale para intervenções de custo zero. Não jogue toda sua cozinha no lixo hoje em um ataque de pânico noturno. No Sprint da Semana 1 (Capítulo 27), mostraremos como fazer as trocas essenciais de forma inteligente e barata em apenas 30 minutos.
 
 Mas a metáfora do cartão de crédito sobrevive porque aponta para algo que já não é metáfora: o plástico fragmentado está entrando na cadeia alimentar, na água, no sal, na cerveja, no ar, no pó doméstico, em frutos do mar, em embalagens, em tecidos. Microplásticos são partículas pequenas; nanoplásticos, menores ainda. Eles não são todos iguais. Podem variar em tamanho, polímero, aditivos, contaminantes aderidos e comportamento no corpo.
 
