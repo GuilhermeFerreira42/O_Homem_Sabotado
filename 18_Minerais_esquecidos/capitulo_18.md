@@ -121,6 +121,8 @@ Zinco aparece em ostras, carnes, ovos, frutos do mar, sementes de abóbora e alg
 
 Depois vem a pergunta sobre suplementação — e aqui a regra é: **suplementa para remover limitação, não para compensar abandono**.
 
+**Guarde o cartão de crédito.** A dosagem exata, a forma química correta e o momento ideal de introduzir zinco e magnésio serão mapeados para você na fase de refinamento do Mês 3 (Capítulo 27). Por enquanto, sua única tarefa hoje é entender o papel insubstituível deles na fábrica do seu corpo. Se sua dieta já é densa em nutrientes, suplementar pode ser desnecessário. Se há deficiência, corrigir é fundamental. Mas isso será decidido com exames e contexto, não no impulso.
+
 **Zinco**: se sua dieta é pobre em carnes, frutos do mar e ovos, 15–30 mg/dia de zinco (forma quelatada: picolinato, bisglicinato) pode corrigir uma deficiência que limita testosterona e espermatogênese. Uso prolongado acima de 40 mg/dia pode reduzir cobre — se for uso crônico, adicione 1–2 mg de cobre. O exame de zinco sérico ajuda a decidir.
 
 **Boro**: pode ajudar a liberar mais testosterona livre reduzindo a SHBG; 3–10 mg/dia em ciclos (ex.: 2 semanas sim, 2 semanas não), especialmente se o exame mostra testosterona total normal mas livre baixa e estradiol alto. Não é para uso indefinido sem reavaliação.

@@ -3,8 +3,10 @@
 > *"A testosterona é o pai. O DHT é o filho que decide se você vai ter barba, voz grossa e desejo — ou se vai perder o cabelo."*
 > — Rick
 
-Marcos parou em frente ao espelho do banheiro e passou a mão no couro cabeludo. Aos 38 anos, os exames estavam “normais”. Testosterona total dentro da faixa. Libido? Mais ou menos. Ereção? Funcionava, mas não como aos 25. E o cabelo — aquele recuo na testa que ele fingia não ver — parecia estar ganhando terreno todo mês. Ele já tinha lido sobre testosterona, sobre gordura virando estrogênio, sobre o intestino vazando coisas ruins. Agora a pergunta que ficava era diferente: e se o problema não fosse falta de testosterona, mas o que o corpo fazia com ela?
 
+Eram 2 da manhã quando Marcos se sentou na frente do computador, iluminado apenas pela tela azul. Ele já tinha passado uma hora no banheiro, sob a luz branca implacável do espelho, passando a mão nas entradas do cabelo que cresciam todo mês. Aos 38 anos, os exames estavam "normais". Testosterona total dentro da faixa. Libido? Mais ou menos. Ereção? Funcionava, mas não como aos 25. E o cabelo — aquele recuo na testa que ele fingia não ver — parecia estar ganhando terreno todo mês.
+
+Ele abriu três abas de fóruns obscuros na internet. Em cada uma, homens relatavam o mesmo dilema: tomar um remédio para calvície e arriscar a libido, ou deixar o cabelo cair e perder a autoestima. Alguns diziam que os efeitos colaterais sumiam depois de alguns meses. Outros juravam que tinham perdido o desejo sexual por anos. Marcos leu até o amanhecer, suando frio, tentando decidir entre dois riscos.
 Este capítulo é sobre essa transformação. Sobre a molécula que a testosterona vira quando o corpo decide que precisa de mais potência em certos lugares. E sobre o preço que alguns homens pagam por essa potência.
 
 ## O que a testosterona vira quando quer ser mais forte
@@ -74,6 +76,8 @@ Um estudo de 2017 da Northwestern University (Belknap et al. [159]) encontrou qu
 A comunidade médica ainda debate a prevalência exata e a causalidade direta. Muitos homens usam finasterida sem problemas. Outros relatam efeitos que não voltam ao normal. A FDA incluiu avisos sobre disfunção sexual persistente na bula desde 2012.
 
 Para Marcos, a decisão ficava clara: ele podia escolher entre dois riscos. Continuar vendo o cabelo rarear ou tomar uma droga que reduz o androgênio mais potente do corpo e, em uma minoria de casos, deixa marcas que não somem.
+
+**Aqui o custo de tirar não é zero. A decisão exige soberania, não apenas precaução.** Bloquear o DHT não é como trocar uma garrafa plástica por vidro. É uma escolha que mexe com o androgênio mais potente do corpo. Alguns homens terão benefícios visíveis no cabelo sem efeitos colaterais. Outros pagarão um preço na libido, na ereção ou na sensação de potência — e para uma minoria, esse preço pode ser duradouro. Essa decisão não segue a regra do "custo zero". Ela exige que você pese os dois lados da balança e decida com consciência plena dos riscos.
 
 A escolha não é entre “ter cabelo ou não”. É entre aceitar a calvície genética ou aceitar um possível custo na função sexual e na sensação de potência — e saber que, para alguns homens, esse custo pode ser duradouro.
 

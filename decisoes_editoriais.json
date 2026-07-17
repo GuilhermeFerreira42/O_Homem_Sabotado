@@ -1,0 +1,90 @@
+{
+  "projeto": "O Homem Sabotado",
+  "versao_documento": "1.0",
+  "data_atualizacao": "2024",
+  "descricao": "Registro das decisões editoriais e princípios narrativos aplicados durante a revisão final da obra.",
+  
+  "decisoes_estrategicas": [
+    {
+      "id": "DEC-001",
+      "tema": "Pacto da Prudência e Evolução do Bordão",
+      "problema_identificado": "A repetição literal e estática da frase 'Se o custo de tirar é zero e o risco de deixar é real, tira' ao longo de 30 capítulos gerava fadiga narrativa e soava desconectada em cenários de alta complexidade biológica (ex: bloqueio de DHT), onde o custo não é zero.",
+      "decisao_tomada": "Transformar o bordão em uma âncora evolutiva que amadurece junto com o leitor e a complexidade do tema.",
+      "implementacao": {
+        "capitulos_iniciais_1_a_5": "Manter o bordão clássico intacto para ameaças de resolução simples (ex: trocar plástico por vidro).",
+        "capitulos_intermediarios_ex_13": "Adaptar a frase para reconhecer o esforço físico: 'Aqui o custo de tirar exige suor, mas o risco de deixar é a castração química'.",
+        "capitulos_avancados_ex_26": "Subverter a regra para exigir soberania consciente: 'O custo de tirar não é zero. A decisão exige soberania, não apenas precaução'.",
+        "capitulo_27": "Usar o bordão original apenas para coroar o Sprint 1 como validação final."
+      },
+      "justificativa": "Evitar a 'saciação semântica' (o cérebro parar de registrar o significado pela repetição) e validar a inteligência do leitor, mostrando que decisões biológicas complexas exigem ponderação, não apenas regras cegas."
+    },
+    {
+      "id": "DEC-002",
+      "tema": "Personagem Marcos como Fio Condutor na Ciência Densa",
+      "problema_identificado": "O personagem composto 'Marcos', criado para humanizar os dados, desaparecia justamente nos capítulos de bioquímica mais densa (Partes 8 e 9), transformando a narrativa de volta em um manual técnico árido e afastando o leitor.",
+      "decisao_tomada": "Reintegrar Marcos ativamente nas explicações técnicas, usando sua dor física e frustração emocional como ponte conceitual antes de introduzir a teoria abstrata.",
+      "implementacao": {
+        "capitulo_24_intestino": "Iniciar o capítulo mostrando Marcos acordando inchado e com névoa mental após um fim de semana comum, segurando um exame 'normal'. Isso transforma o conceito de LPS/endotoxina na resolução de um mistério pessoal dele.",
+        "capitulo_26_DHT": "Criar cena de Marcos diante do espelho notando a queda de cabelo e pesquisando ansiosamente em fóruns às 2h da manhã sobre os efeitos da finasterida na libido antes de explicar a enzima 5-alfa-redutase.",
+        "capitulo_11_SHBG": "Mostrar Marcos confuso no consultório ao ver testosterona total alta no laudo, mas sentindo-se exausto, para ilustrar o conceito de testosterona 'bloqueada' pela SHBG."
+      },
+      "justificativa": "O cérebro humano retém histórias melhor que acrônimos. A dor humana deve preceder a teoria abstrata para manter o engajamento e transformar a ciência em ferramenta de resolução de problemas reais."
+    },
+    {
+      "id": "DEC-003",
+      "tema": "Ancoragem de Segurança e Arquitetura dos Sprints",
+      "problema_identificado": "O leitor acumulava ansiedade paralisante ao longo de 26 capítulos listando ameaças, sem saber quando ou como agir. A revelação dos '3 Sprints' apenas no Capítulo 27 chegava tarde demais, parecendo um 'bote salva-vidas' tardio.",
+      "decisao_tomada": "Semear a promessa da estrutura dos Sprints (Semana 1, Mês 1, Mês 3) desde os capítulos iniciais, garantindo ao leitor que o 'como' e o 'quando' já estão resolvidos.",
+      "implementacao": {
+        "introducao": "Mencionar explicitamente que existe um mapa tático estruturado em 3 fases aguardando o leitor no final, permitindo que ele foque no 'porquê' agora.",
+        "capitulo_2_plastico": "Inserir nota: 'Não jogue toda a cozinha no lixo hoje em pânico. No Sprint da Semana 1, mostraremos como fazer trocas inteligentes em 30 minutos'.",
+        "capitulo_18_minerais": "Inserir nota: 'Guarde o cartão de crédito. A dosagem e forma química ideal serão mapeadas no Mês 3. Hoje sua tarefa é apenas entender o papel deles'.",
+        "capitulo_11_predio_em_chamas": "Reforçar a analogia de que 'não se mede um prédio enquanto ele está em chamas' para justificar cientificamente a espera pelos exames até o Mês 3."
+      },
+      "justificativa": "Reduzir a carga cognitiva de ansiedade. O leitor só consegue absorver a ciência profunda se sentir que há um plano de ação seguro e organizado, evitando a tentativa de mudar 20 hábitos de uma vez."
+    },
+    {
+      "id": "DEC-004",
+      "tema": "Pontes de Causa e Efeito entre Partes",
+      "problema_identificado": "Transições bruscas entre a toxicologia ambiental (Partes 1-2) e o comportamento/dopamina (Parte 3) faziam o livro parecer uma coleção de ensaios isolados em vez de uma investigação contínua de causa e efeito.",
+      "decisao_tomada": "Reforçar as aberturas das Partes para demonstrar textualmente que o comportamento é o eco direto da agressão química anterior.",
+      "implementacao": {
+        "abertura_parte_3": "Explicitar que a busca por estímulos rápidos (celular, pornografia) é a consequência biológica inevitável dos receptores bloqueados pelo BPA e da inflamação sistêmica discutidas anteriormente. Conectar o sistema endócrino ao sistema de recompensa neural como frentes únicas de uma mesma guerra."
+      },
+      "justificativa": "Manter a promessa de uma narrativa de thriller investigativo onde cada peça se encaixa logicamente, evitando que o leitor perceba o livro como segmentos desconexos."
+    },
+    {
+      "id": "DEC-005",
+      "tema": "Terminologia Técnica (Função → Analogia → Nome)",
+      "problema_identificado": "Termos técnicos lançados sem contexto adequado criavam barreiras de compreensão imediata.",
+      "decisao_tomada": "Padronizar a introdução de qualquer termo técnico seguindo estritamente a sequência: Função → Analogia → Nome.",
+      "implementacao": {
+        "exemplo_MCT": "Não dizer 'O MCT é...'. Dizer: 'O óleo que aumenta o foco imediato (Função), agindo como um combustível limpo que ignita sem fumaça (Analogia), chamado Triglicerídeos de Cadeia Média ou MCT (Nome)'.",
+        "exemplo_SHBG": "Explicar como a proteína que 'tranca' a testosterona (Função), comparando-a a um cofre bancário onde você tem dinheiro mas não tem a chave (Analogia), antes de nomear SHBG."
+      },
+      "justificativa": "Garantir acessibilidade cognitiva imediata, permitindo que leigos compreendam conceitos complexos através de funções práticas e imagens mentais claras antes de lidar com a nomenclatura científica."
+    }
+  ],
+  
+  "principios_narrativos_inegociaveis": [
+    "Livro Anfíbio: O texto deve funcionar perfeitamente tanto na leitura visual quanto na audição (audiobook), evitando construções que dependam de formatação visual.",
+    "Bisturi, Não Marreta: As revisões devem ser cirúrgicas. Nunca reescrever capítulos inteiros sem necessidade; focar em inserções e cortes pontuais que resolvam o problema específico.",
+    "Memória Curta para Referências: Não assumir que o leitor lembra de detalhes de 50 páginas atrás. Recontextualizar brevemente conceitos quando necessário.",
+    "Conclusão em 3 Camadas: Todo capítulo deve terminar com: 1) Síntese do aprendido, 2) Extensão prática para a vida do leitor, 3) Gancho narrativo para o próximo capítulo.",
+    "Soberania do Leitor: O tom deve ser de guia confiante, nunca de professor defensivo. O leitor é um adulto capaz de tomar decisões, não uma criança que precisa ser protegida da verdade."
+  ],
+  
+  "estrutura_do_protocolo": {
+    "sprint_1_semana_1": "Remoção de Ruído Óbvio (trocas ambientais rápidas, baixo custo). Foco: Ação imediata sem paralisia.",
+    "sprint_2_mes_1": "Restauração da Fundação (sono, minerais básicos, rotina). Foco: Estabilização biológica.",
+    "sprint_3_mes_3": "Refinamento com Exames (testes laboratoriais precisos, ajustes finos). Foco: Otimização baseada em dados, agora com o corpo 'desinflamado'."
+  },
+  
+  "avisos_para_o_orquestrador": [
+    "NUNCA permita que o bordão do Pacto da Prudência volte a ser repetido literalmente em capítulos de alta complexidade (20+). A evolução da frase é crucial para a autoridade narrativa.",
+    "NUNCA aceite capítulos de bioquímica densa sem a presença do personagem Marcos ou de um elemento humano equivalente. Se a ciência não tiver rosto, o leitor desliga.",
+    "NUNCA remova as 'sementes de alívio' sobre os Sprints dos capítulos iniciais. Elas são essenciais para prevenir a ansiedade paralisante.",
+    "Ao revisar novas edições, verifique sempre se a analogia do 'Prédio em Chamas' está coerente entre Introdução, Capítulo 11 e Capítulo 27.",
+    "Mantenha a ordem de execução das Frentes de Revisão conforme definido no README: 1 (Tom/Bordão) -> 3 (Pontes/Partes) -> 2 (Sprints/Marcos)."
+  ]
+}

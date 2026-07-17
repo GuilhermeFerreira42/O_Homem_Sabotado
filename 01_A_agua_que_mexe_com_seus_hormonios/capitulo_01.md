@@ -57,7 +57,7 @@ A objeção óbvia aparece em segundos: rãs não são homens. Ela está correta
 
 Um estudo em anfíbios não prova que homens adultos expostos a traços ambientais de atrazina sofrerão os mesmos efeitos. A distância entre laboratório e vida humana é grande: espécie, dose, tempo de exposição, via de entrada, fase de desenvolvimento, metabolismo. A ciência honesta precisa dessa distância. O problema é quando a distância vira desculpa para não olhar.
 
-Aplicamos aqui o mesmo princípio: se o custo de tirar é zero e o risco de deixar é real, tira.
+Aqui, o princípio da prudência se aplica: biologia plausível + exposição diária + custo zero de prevenção = ação imediata. Você não precisa esperar um ensaio clínico para trocar uma garrafa plástica por vidro. Mas lembre-se: essa regra vale para intervenções de custo zero. Quando o custo subir — como veremos nos capítulos sobre gordura visceral, suplementação e hormônios — a decisão exigirá mais do que precaução. Exigirá soberania.
 
 Anfíbios são usados como sentinelas ambientais justamente porque respondem de forma sensível ao ambiente. Quando uma substância amplamente utilizada na agricultura aparece associada a alterações sexuais e hormonais em animais que vivem em contato íntimo com a água, a pergunta que surge não é “isso prova exatamente o que acontece comigo?”. Essa é estreita demais. A pergunta melhor é que tipo de mundo químico estamos construindo e quais sistemas biológicos estão sendo usados como primeiros alarmes.
 

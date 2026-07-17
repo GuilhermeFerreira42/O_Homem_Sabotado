@@ -48,9 +48,15 @@ Você não precisa resolver toda a toxicologia dos plásticos para parar de aque
 
 Este livro opera na zona cinzenta da toxicologia moderna — onde nem tudo tem ensaio clínico de trinta anos, mas onde a biologia plausível e a exposição diária são reais. Alguns dos compostos que vamos discutir estão no mercado desde os anos 1920 sem revisão vinculante. Outros foram aprovados quando ainda não existia endocrinologia moderna. Outros, ainda, são tão novos que a ciência leva décadas para alcançar a adoção em massa.
 
-O princípio que guia estas páginas é simples: **quando o custo de tirar é zero e o risco de deixar é real, tira.** Você não precisa de certeza perfeita para trocar uma garrafa plástica por vidro. Não precisa de meta-análise para respirar pelo nariz em vez da boca. Não precisa de ensaio clínico randomizado para desligar telas antes de dormir.
+O princípio que guia estas páginas é simples: **precaução sem histeria**. Você não precisa de certeza perfeita para trocar uma garrafa plástica por vidro. Não precisa de meta-análise para respirar pelo nariz em vez da boca. Não precisa de ensaio clínico randomizado para desligar telas antes de dormir.
 
-A partir daqui, não vou mais pedir desculpa pela ciência a cada página. Vocês já sabem as regras. Quando eu disser "aplicamos aqui o princípio da prudência", vocês sabem o que significa: biologia plausível + exposição diária + custo zero de prevenção = ação imediata. Precaução sem histeria.
+A partir daqui, não vou mais pedir desculpa pela ciência a cada página. Vocês já sabem as regras. Quando eu disser "aplicamos aqui o princípio da prudência", vocês sabem o que significa: biologia plausível + exposição diária + custo zero de prevenção = ação imediata.
+
+**Se o custo de tirar é zero e o risco de deixar é real, tira.**
+
+Essa frase será sua âncora nos capítulos iniciais. Mas atenção: à medida que avançarmos, você verá que algumas decisões exigem mais do que precaução — exigem soberania. O custo nem sempre será zero. Às vezes, será suor. Às vezes, será escolha difícil. O protocolo completo está no Capítulo 27, dividido em três sprints: Semana 1 (remoção de ruído), Mês 1 (restauração) e Mês 3 (refinamento com exames).
+
+**Mas antes de qualquer exame, entenda isto:** medir um corpo sabotado é como tirar foto de um prédio em chamas. O número vai refletir o dano, não a base. Se você correr para o laboratório hoje, seus marcadores inflamatórios estarão altos, sua testosterona estará suprimida, seu cortisol estará elevado. Isso não é seu estado permanente — é seu estado em chamas. A ordem correta é: primeiro apague os incêndios silenciosos (semanas 1-4), depois restaure a fundação (mês 2), só então meça com precisão (mês 3). Não jogue sua cozinha no lixo hoje em um ataque de pânico noturno. Cada etapa tem seu tempo. Leia o Capítulo 27 antes de tirar sangue ou comprar suplementos.
 
 Ao terminar este livro, você não terá uma lista mágica de suplementos. Terá um mapa. Um mapa de como fatores aparentemente desconectados — água, plástico, luz, sono, pornografia, comida, estresse, gordura abdominal, minerais, circulação, intestino, fígado, dopamina e testosterona — podem convergir sobre o mesmo corpo.
 
