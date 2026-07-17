@@ -51,6 +51,8 @@ Quando um hábito universal aparece associado a um marcador sensível da saúde 
 
 É atenção.
 
+Aplicamos aqui o mesmo princípio: se o custo de tirar é zero e o risco de deixar é real, tira.
+
 ## O Grupo 2B e a zona cinzenta
 
 Em 2011, a Agência Internacional de Pesquisa em Câncer, ligada à Organização Mundial da Saúde, classificou campos eletromagnéticos de radiofrequência como possivelmente carcinogênicos para humanos, Grupo 2B, com base em evidência limitada relacionada a glioma e uso de telefones sem fio [33].
@@ -76,6 +78,8 @@ O espermatozoide é uma célula pequena, móvel e vulnerável.
 Ele carrega DNA compactado, depende de **motilidade — como o espermatozoide se move**, **morfologia — seu formato**, integridade de membrana, energia mitocondrial e ambiente adequado. Não tem a robustez de uma célula qualquer. Por isso, **parâmetros seminais — as medidas de qualidade do sêmen** são frequentemente tratados como marcadores sensíveis do estado reprodutivo e, em alguns contextos, do estado geral de saúde masculina.
 
 A literatura sobre celulares e sêmen é irregular. Há estudos observacionais, experimentos in vitro, revisões e meta-análises com resultados que nem sempre apontam na mesma direção. Uma revisão sistemática e meta-análise publicada em 2014, por exemplo, encontrou associação entre exposição a telefones celulares e redução de motilidade e viabilidade espermática, enquanto os efeitos sobre concentração foram mais equivocados [34]. Outras análises e estudos posteriores continuaram discutindo possíveis impactos em motilidade, morfologia, concentração, viabilidade, estresse oxidativo e fragmentação de DNA, mas com variação importante de qualidade e desenho.
+
+A regra é a mesma: precaução sem histeria.
 
 O mecanismo mais citado envolve estresse oxidativo.
 

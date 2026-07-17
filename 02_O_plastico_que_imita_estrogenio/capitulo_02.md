@@ -93,6 +93,8 @@ Em 2019, uma análise encomendada pelo WWF e conduzida com pesquisadores da Univ
 
 Cinco gramas por semana não deve ser lido como uma medição individual precisa. A ciência dos microplásticos ainda está amadurecendo. Há variações enormes por região, método, dieta, água, ar, ocupação e definição do que está sendo contado. O próprio campo ainda discute como transformar partículas em massa, como medir exposição real e como estimar efeito biológico em humanos.
 
+Aplicamos aqui o mesmo princípio: se o custo de tirar é zero e o risco de deixar é real, tira.
+
 Mas a metáfora do cartão de crédito sobrevive porque aponta para algo que já não é metáfora: o plástico fragmentado está entrando na cadeia alimentar, na água, no sal, na cerveja, no ar, no pó doméstico, em frutos do mar, em embalagens, em tecidos. Microplásticos são partículas pequenas; nanoplásticos, menores ainda. Eles não são todos iguais. Podem variar em tamanho, polímero, aditivos, contaminantes aderidos e comportamento no corpo.
 
 A parte mais desconfortável não é imaginar um cartão de crédito inteiro no estômago. Isso é teatro.

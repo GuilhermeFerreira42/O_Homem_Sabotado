@@ -44,6 +44,14 @@ A vida prática acontece antes da certeza perfeita.
 
 Você não precisa resolver toda a toxicologia dos plásticos para parar de aquecer comida em plástico. Não precisa entender toda a neurociência da dopamina para perceber que pornografia infinita mudou sua resposta ao sexo real. Não precisa virar endocrinologista para saber que testosterona total sozinha pode não explicar sintomas. Também não precisa rejeitar medicina, exames ou tratamento. O homem que este livro imagina não é rebelde contra a ciência. Ele é rebelde contra a passividade.
 
+## O pacto da prudência
+
+Este livro opera na zona cinzenta da toxicologia moderna — onde nem tudo tem ensaio clínico de trinta anos, mas onde a biologia plausível e a exposição diária são reais. Alguns dos compostos que vamos discutir estão no mercado desde os anos 1920 sem revisão vinculante. Outros foram aprovados quando ainda não existia endocrinologia moderna. Outros, ainda, são tão novos que a ciência leva décadas para alcançar a adoção em massa.
+
+O princípio que guia estas páginas é simples: **quando o custo de tirar é zero e o risco de deixar é real, tira.** Você não precisa de certeza perfeita para trocar uma garrafa plástica por vidro. Não precisa de meta-análise para respirar pelo nariz em vez da boca. Não precisa de ensaio clínico randomizado para desligar telas antes de dormir.
+
+A partir daqui, não vou mais pedir desculpa pela ciência a cada página. Vocês já sabem as regras. Quando eu disser "aplicamos aqui o princípio da prudência", vocês sabem o que significa: biologia plausível + exposição diária + custo zero de prevenção = ação imediata. Precaução sem histeria.
+
 Ao terminar este livro, você não terá uma lista mágica de suplementos. Terá um mapa. Um mapa de como fatores aparentemente desconectados — água, plástico, luz, sono, pornografia, comida, estresse, gordura abdominal, minerais, circulação, intestino, fígado, dopamina e testosterona — podem convergir sobre o mesmo corpo.
 
 A promessa é simples: você vai entender melhor por que certos sintomas aparecem juntos e por onde faz sentido começar. Vai entender por que cansaço, baixa libido, ereção pior, ansiedade, gordura abdominal, sono ruim e perda de foco podem não ser problemas separados. Vai entender por que um exame normal pode ser apenas o começo da investigação, não seu fim. Vai entender por que a pergunta “quanto de testosterona eu tenho?” é menor do que “quanto do meu sinal hormonal está chegando onde precisa chegar?”.
