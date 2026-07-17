@@ -17,21 +17,29 @@ Ordem significa saber o que fazer primeiro.
 
 E o que fazer primeiro é sempre tirar os sabotadores que não custam dinheiro, não exigem receita médica, não dependem de exame de sangue e não pedem que você confie em um frasco antes de confiar na sua torneira. Antes de qualquer suplemento, existe a remoção. Antes de qualquer protocolo, existe o ambiente.
 
-A pergunta do capítulo é prática: se um homem decidisse hoje que quer parar de ser sabotado, o que ele faria nas próximas 24 horas?
-
-A resposta cabe em quatro frentes. Água, plástico, cosméticos e luz. Distância de fontes de calor e campos eletromagnéticos. Sono, tela e rotina. E uma checklist que separa o que se muda hoje, o que se mede esta semana e o que se compra só depois — quando a casa já estiver em ordem.
+A resposta cabe em três sprints: **Semana 1** para remover o ruído óbvio, **Mês 1** para restaurar a máquina e **Mês 3** para refinar quimicamente.
 
 Marcos respirou fundo. Não era desespero. Era a sensação de que, pela primeira vez, a pilha de informação ia virar ação.
 
 ---
 
-## A água que você bebe sem perguntar
+## SPRINT 1 — Semana 1: Remoção do Ruído Óbvio
+
+**Foco:** sabotadores físicos, zero força de vontade prolongada
+
+**Argumento:** são vitórias rápidas. A casa parou de gritar contra o corpo.
+
+**Regra de ouro:** sem exames, sem suplementos, sem mudança comportamental profunda. Apenas remoção.
+
+---
+
+### Dia 1: Água, plástico, cosméticos e luz
 
 Marcos começou pela torneira.
 
-A água da rede traz cloro (que mata bactérias, mas também interfere na microbiota cutânea e intestinal), subprodutos de cloração como trihalometanos — subprodutos tóxicos que se formam quando o cloro reage com matéria orgânica na água — e, dependendo da região, resíduos de herbicidas como atrazina — o disruptor endócrino que Tyrone Hayes, em Berkeley, documentou transformando sapos machos em fêmeas funcionais com níveis ambientais (Cap. 1). O flúor, defendido como proteção dentária, se acumula na glândula pineal, a fábrica de melatonina, com concentração mil vezes maior que no sangue [161]. Não é paranoia. É hidrologia básica: o que vai no rio volta na torneira.
+A água da rede traz cloro (que mata bactérias, mas também interfere na microbiota cutânea e intestinal), subprodutos de cloração como trihalometanos e, dependendo da região, resíduos de herbicidas como atrazina (Cap. 1). O flúor se acumula na glândula pineal, a fábrica de melatonina, com concentração mil vezes maior que no sangue. Não é paranoia. É hidrologia básica: o que vai no rio volta na torneira.
 
-A ação de hoje não é instalar um sistema de osmose reversa de cinco mil reais. A ação de hoje é três trocas que custam menos de cem reais no total:
+**A ação de hoje não é instalar um sistema de osmose reversa de cinco mil reais.** É três trocas que custam menos de cem reais no total:
 
 **1. Garrafa de vidro ou aço inox.** A garrafa plástica que viaja no carro, aquece no sol e libera BPA e ftalatos (Cap. 2) sai de circulação hoje. Vidro não solta nada. Aço inox não solta nada. Um copo de vidro na mesa do escritório, uma garrafa térmica na mochila. Feito.
 
@@ -40,64 +48,6 @@ A ação de hoje não é instalar um sistema de osmose reversa de cinco mil reai
 **3. Água para cozinhar filtrada.** Se você tem filtro de barro, destilador ou jarra com carvão + resina troca-iônica, use para cozinhar. Se não tem, ferva a água e deixe esfriar: a fervura elimina cloro e volatiza boa parte dos trihalometanos. Não resolve metais pesados, mas resolve o agudo. Feito.
 
 Três trocas. Dez minutos. A água que entra no corpo deixa de ser uma incógnita.
-
----
-
-## O plástico que toca sua comida
-
-Marcos abriu o armário da cozinha.
-
-BPA (garrafas, latas, recibos térmicos), ftalatos (embalagens flexíveis, filmes plásticos) e PFAS (antiaderentes) não são "químicos teóricos". BPA bloqueia receptores de androgênio — a testosterona circula, mas a fechadura não gira (Cap. 11). Ftalatos encurtam a distância anogenital em meninos expostos no útero [162]. PFAS persistem no corpo por anos ("químicos para sempre"). Microplásticos semanais equivalem a um cartão de crédito [163].
-
-A ação de hoje não é jogar tudo fora. É três trocas cirúrgicas:
-
-**1. Nunca mais aqueça comida em plástico.** Micro-ondas + plástico = migração acelerada. Vidro refratário ou cerâmica. A tampa plástica do pote? Tire antes de aquecer. Feito.
-
-**2. Latas só se for emergência.** O revestimento interno da maioria das latas contém BPA ou substitutos (BPS, BPF) com efeitos semelhantes. Prefira vidro (tomate, leite de coco, grãos) ou caixa Tetra Pak (sem alumínio em contato). Feito.
-
-**3. Recibos térmicos: não segure, não guarde na carteira.** O papel térmico tem BPA livre — passa pela pele em segundos. Peça nota fiscal eletrônica. Se precisar pegar, toque só na borda e lave as mãos. Feito.
-
----
-
-## O banheiro como território hormonal
-
-Marcos olhou o shampoo, o desodorante, o creme, o protetor solar.
-
-Parabenos e ftalatos em cosméticos não ficam na superfície — a pele absorve. "Fragrância" ou "parfum" no rótulo é uma caixa-preta: pode conter dezenas de ftalatos sem declaração. Produtos *leave-on* (cremes, protetores, desodorantes) ficam horas na pele. *Rinse-off* (shampoo, sabonete) têm contato curto, mas diário. A pseudo-persistência do uso diário vence a baixa absorção única.
-
-A ação de hoje: leia três rótulos. Shampoo, desodorante, hidratante (ou protetor solar). Se tiver **parabeno** (methylparaben, propylparaben, butylparaben, ethylparaben), **ftalato** (DEP, DBP, DEHP — às vezes escondido em "fragrância"), troque na próxima compra. Marcas nacionais sem parabenos/ftalatos existem em farmácia e mercado. Não precisa importar. Feito.
-
----
-
-## A luz que rouba sua noite
-
-Marcos apagou a luz do quarto e viu o LED do carregador, o standby da TV, a fresta da cortina.
-
-Luz azul (460–480 nm) à noite suprime melatonina — o hormônio que abre a janela da testosterona noturna e do GH. LEDs residenciais (4000K–6500K) são ricos em azul. A lâmpada "branca fria" do banheiro, a tela do celular, a TV: todas sinalizam "meio-dia" para o cérebro às 23h. A melatonina não sobe. O sono fica raso. A testosterona matinal não pica.
-
-A ação de hoje, gratuita:
-
-**1. Lâmpada do quarto e banheiro: troque por 2700K (amarela) ou, melhor, luz vermelha/âmbar à noite.** Uma lâmpada LED 2700K custa o mesmo que a branca. Luz vermelha (670 nm) não suprime melatonina e, segundo estudos em atletas e modelos animais, pode apoiar função mitocondrial em células de Leydig (Cap. 4). Feito.
-
-**2. Celular: modo "Conforto visual" / "Filtro luz azul" no máximo a partir do pôr do sol. Melhor: tela em escala de cinza (acessibilidade) — tira o apelo dopaminérgico também.** Feito.
-
-**3. Quarto: escuro total. Cortina blackout ou máscara de olhos. LEDs de equipamentos: fita isolante preta.** Feito.
-
-**4. Sol pela manhã: 10 minutos nos olhos (sem óculos, sem janela) nos primeiros 60 minutos de vigília.** Âncora o ritmo circadiano, dispara cortisol no horário certo, prepara melatonina para 14 horas depois. Feito.
-
-> **Aforismo mnemônico:** Água, plástico, pele, luz. Quatro fronteiras do corpo. O que entra por elas decide se seu hormônio chega ou trava.
-
----
-
-## O celular que não sai do corpo
-
-Marcos tirou o celular do bolso e mediu a temperatura. O aparelho estava morno. O bolso, mais ainda. Ele fez as contas: carregava o telefone no bolso frontal direito desde os 21 anos. Dezessete anos. Dormia com ele no criado-mudo, às vezes na cama. Usava no banheiro. Respondia mensagem no trânsito. A extensão do corpo não pedia permissão — apenas ficava.
-
-Os Capítulos 5 e 6 mostraram o que a ciência diz sobre essa proximidade.
-
-O calor é a parte mais consensual. Testículos operam a 34–35°C porque espermatogênese falha acima de 36°C. Um laptop no colo eleva a temperatura escrotal em 2,8°C em 60 minutos [164]. Um banco aquecido de carro, uma cueca de poliéster, uma sessão de laptop no sofá: são camadas que se somam no mesmo dia (Cap. 7). O dano térmico é cumulativo e reversível — mas só se o calor parar.
-
-Os campos eletromagnéticos (EMF) são a parte mais debatida. A OMS classificou radiofrequência como grupo 2B — possível carcinógeno — em 2011 [165]. Um estudo de Genebra (2016) observou ≈20% de redução na concentração espermática em homens jovens com alta exposição a celular no bolso (Cap. 5). Críticos apontam que correlação não prova causalidade e que outros fatores (sedentarismo, calor, estresse) podem confundir. A posição deste livro, já estabelecida no Capítulo 5, é clara: não sabemos o suficiente para decretar perigo, mas sabemos o bastante para aplicar precaução a custo zero.
 
 A ação de hoje:
 

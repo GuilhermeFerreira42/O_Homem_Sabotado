@@ -55,9 +55,9 @@ A palavra aromatase voltará muitas vezes neste livro. **A aromatase é uma enzi
 
 A objeção óbvia aparece em segundos: rãs não são homens. Ela está correta, mas incompleta.
 
-Um estudo em anfíbios não prova que homens adultos expostos a traços ambientais de atrazina sofrerão os mesmos efeitos. Não prova que a água da sua casa reduz testosterona. Não prova que todo resíduo agrícola causa disfunção hormonal humana. A distância entre laboratório e vida humana é grande: espécie, dose, tempo de exposição, via de entrada, fase de desenvolvimento, metabolismo, combinação com outros fatores, desenho experimental, replicação.
+Um estudo em anfíbios não prova que homens adultos expostos a traços ambientais de atrazina sofrerão os mesmos efeitos. A distância entre laboratório e vida humana é grande: espécie, dose, tempo de exposição, via de entrada, fase de desenvolvimento, metabolismo. A ciência honesta precisa dessa distância. O problema é quando a distância vira desculpa para não olhar.
 
-A ciência honesta precisa dessa distância. O problema é quando a distância vira desculpa para não olhar.
+Aplicamos aqui o mesmo princípio: se o custo de tirar é zero e o risco de deixar é real, tira.
 
 Anfíbios são usados como sentinelas ambientais justamente porque respondem de forma sensível ao ambiente. Quando uma substância amplamente utilizada na agricultura aparece associada a alterações sexuais e hormonais em animais que vivem em contato íntimo com a água, a pergunta que surge não é “isso prova exatamente o que acontece comigo?”. Essa é estreita demais. A pergunta melhor é que tipo de mundo químico estamos construindo e quais sistemas biológicos estão sendo usados como primeiros alarmes.
 

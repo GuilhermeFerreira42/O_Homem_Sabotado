@@ -48,6 +48,8 @@ A biologia moderna nos obriga a levar a sério uma categoria estranha: compostos
 
 Um único produto talvez não diga muita coisa. O uso diário de vários produtos por anos começa a dizer mais. E aqui a evidência de exposição é difícil de ignorar. Estudos de biomonitoramento — medir no próprio corpo humano (urina, sangue, leite) a presença de substâncias que vieram do ambiente — nos Estados Unidos encontraram methylparaben e propylparaben na urina de mais de 92% de uma amostra representativa da população, com butylparaben detectado em uma parcela menor, mas ainda significativa. Isso não prova dano. Prova presença ampla.
 
+Aplicamos aqui o mesmo princípio: se o custo de tirar é zero e o risco de deixar é real, tira.
+
 Presença ampla muda o tipo de pergunta.
 
 Não estamos falando de uma substância rara, usada por um grupo ocupacional específico. Estamos falando de compostos que aparecem no corpo de quase todo mundo porque fazem parte da infraestrutura invisível do cuidado pessoal moderno. Eles têm meia-vida curta; o corpo tende a metabolizar e excretar. Mas, se a exposição é diária, a eliminação rápida não significa ausência. Significa fluxo contínuo.

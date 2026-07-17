@@ -123,6 +123,8 @@ Se o problema é que um único número não conta a história, o próximo passo 
 
 Não para virar refém de exames. Para parar de adivinhar.
 
+> **Mas antes de correr para o laboratório no dia 1, lembre-se: medir um corpo sabotado é como tirar foto de um prédio em chamas. O número vai refletir o dano, não a base. A ordem certa está no Capítulo 27. Leia antes de tirar sangue.**
+
 Um painel masculino funcional deve começar por testosterona total, mas incluir testosterona livre ou calculada, SHBG, albumina, LH, FSH, estradiol sensível, prolactina, cortisol matinal, TSH, vitamina D, glicose, insulina, hemograma e, quando fizer sentido, marcadores hepáticos e lipídicos. Essa lista não é um convite para automedicação. É uma forma de transformar queixa vaga em hipóteses testáveis.
 
 LH e FSH mostram o comando da hipófise. **LH (hormônio luteinizante) é o sinal que manda os testículos produzirem testosterona; FSH (hormônio folículo-estimulante) estimula as células de Sertoli a apoiarem a produção de espermatozoides.** Se testosterona está baixa e LH também está baixo, o problema pode estar no comando central. Se testosterona está baixa e LH alto, o testículo pode não responder bem. **Estradiol (a forma principal de estrogênio no homem)** mostra conversão e equilíbrio. **Prolactina (um hormônio da hipófise que, quando alto, pode suprimir o eixo reprodutivo e matar o desejo)** pode explicar queda de libido e supressão do eixo em alguns casos. SHBG mostra disponibilidade. Insulina ajuda a entender o ambiente metabólico. **TSH (hormônio estimulador da tireoide, marcador de função tireoidiana)** lembra que tireoide lenta pode imitar cansaço hormonal.

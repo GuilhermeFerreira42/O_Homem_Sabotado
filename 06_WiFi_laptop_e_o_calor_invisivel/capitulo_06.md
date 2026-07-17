@@ -66,6 +66,8 @@ Mas precisa ser mantida no tamanho correto.
 
 Esse foi um estudo in vitro. Espermatozoides em uma amostra de laboratório não são testículos dentro de um corpo humano, protegidos por camadas de tecido, circulação, termorregulação e metabolismo. A exposição em bancada não é idêntica ao uso real de um notebook. A distância, o tempo, a posição, a fonte de calor e o próprio desenho experimental mudam muito o significado prático.
 
+A regra é a mesma: precaução sem histeria.
+
 Ainda assim, o estudo não é inútil. Ele mostra que, em certas condições experimentais, espermatozoides humanos podem ser afetados por um ambiente criado por laptop conectado via Wi‑Fi. Isso não prova dano cotidiano, mas levanta um sinal. E sinais assim merecem linguagem precisa: não pânico, não deboche.
 
 Uma das formas mais maduras de ler esse tipo de evidência é perguntar o que ela muda quando a intervenção é barata. Você não precisa provar que Wi‑Fi no colo reduz fertilidade em todos os homens para decidir que um laptop pode ficar na mesa. Não precisa calcular o risco exato de cada rede sem fio para não dormir com roteador ao lado da cama. Não precisa resolver toda a física da exposição para aumentar distância quando a distância não prejudica sua vida.
